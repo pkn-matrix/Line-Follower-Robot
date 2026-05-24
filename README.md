@@ -20,6 +20,6 @@ The robot automatically follows a black line on a white surface using a differen
 ## 🛠️ Components Used
 * **Microcontroller:** Arduino UNO
 * **Sensors:** IR Sensors (Line detection array)
-* **Motor Driver:** L298N / L293D Driver Module
+* **Motor Driver:** L298N Driver Module
 * **Actuators:** DC Geared Motors
 * **Chassis:** 2WD Acrylic Robot Chassis
