@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="robot.png" alt="Line Following Robot Chassis" width="500">
+  <img src="Hardware/robot.png" alt="Line Following Robot Chassis" width="500">
 </p>
 
 # Line-Follower-Robot
